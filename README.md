@@ -27,7 +27,7 @@ The **Correlation Matrix** reveals linear relationships between all features. No
 
 | Correlation Matrix | Feature Importance Plot |
 | :---: | :---: |
-| ![Correlation Heatmap](image_db3522.png) | ![Feature Importance](image_db2e5d.png) |
+| ![Correlation Heatmap](images/Screenshot 2025-10-21 143119.png) | ![Feature Importance](image_db2e5d.png) |
 
 ---
 
